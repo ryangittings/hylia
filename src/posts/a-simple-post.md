@@ -2,20 +2,10 @@
 title: A simple post
 date: 2020-06-08
 tags:
-- demo-content
-- simple-post
-- blog
-
+  - demo-content
+  - simple-post
+  - blog
 ---
-How about a `<blockquote>`?
-
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
-
-A list of stuff:
-
-* Sed posuere consectetur est at lobortis
-* Aenean lacinia bibendum nulla sed consectetur
-* Sed posuere consectetur est at lobortis
 
 How about an ordered list of stuff:
 
