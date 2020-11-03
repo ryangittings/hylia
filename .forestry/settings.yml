@@ -12,7 +12,6 @@ sections:
   create: documents
   match: "*.md"
   templates:
-  - tokens-colors
   - post
 - type: heading
   label: Globals
